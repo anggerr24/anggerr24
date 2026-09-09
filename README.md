@@ -56,34 +56,6 @@ and data, and creating technology-based solutions.
 
 ---
 
-## 💼 Experience
-
-### 🏢 Ministry of Transportation of the Republic of Indonesia
-
-**Information Technology Intern**  
-📅 August 2025 – September 2025
-
-- 💻 Supported IT operational activities
-- 🔍 Participated in software system analysis
-- 📊 Assisted in data processing and analysis
-- 📝 Prepared and updated technical documentation
-- 🤝 Coordinated with internal IT teams
-
----
-
-### 📱 Rutee
-
-**Social Media Specialist Intern — Remote**  
-📅 August 2025 – October 2025
-
-- 📱 Managed and developed social media content
-- 📊 Analyzed content performance and metrics
-- 📅 Assisted in content calendar planning
-- 💡 Contributed to digital campaign ideas
-- 🤝 Collaborated with the team
-
----
-
 ## 🚀 Featured Project
 
 ### 🛒 Market Basket Analysis — Apriori
