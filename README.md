@@ -2,10 +2,7 @@
 
 # 👋 Halo! Saya Angger Rizky Rambudia
 
-```html
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Systems+Graduate;Open+to+Work+%F0%9F%9A%80;IT+Support+%7C+Programmer;System+Analyst+%7C+Data+Analyst;Technical+Writer+%F0%9F%93%9D" />
-```
-
 
 <br>
 
@@ -23,10 +20,10 @@
 
 ## 🧑‍💻 About Me
 
-Hello! I'm **Angger Rizky Rambudia**, an Information Systems graduate
+Hello! I'm **Angger Rizky Rambudia**, an Information Systems graduate  
 from **Gunadarma University** with a GPA of **3.76 / 4.00**.
 
-I'm currently looking for opportunities to start my professional career
+I'm currently looking for opportunities to start my professional career  
 in the **Information Technology industry**.
 
 ### 🎯 I'm interested in:
@@ -37,7 +34,7 @@ in the **Information Technology industry**.
 📊 **Data Analyst**  
 📝 **Technical Writer**
 
-I enjoy learning new technologies, solving problems, analyzing systems
+I enjoy learning new technologies, solving problems, analyzing systems  
 and data, and creating technology-based solutions.
 
 ---
@@ -94,8 +91,8 @@ and data, and creating technology-based solutions.
 
 **Python • Data Analysis • Apriori • Association Rule Mining**
 
-My thesis project focused on analyzing sales transaction data using
-**Market Basket Analysis and the Apriori algorithm** to discover
+My thesis project focused on analyzing sales transaction data using  
+**Market Basket Analysis and the Apriori algorithm** to discover  
 relationships between menu items and generate bundling recommendations.
 
 ```text
