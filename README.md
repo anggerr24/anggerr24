@@ -2,7 +2,10 @@
 
 # 👋 Halo! Saya Angger Rizky Rambudia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Information+Systems+Graduate;Open+to+Work+%F0%9F%9A%80;IT+Support+%7C+Programmer;System+Analyst+%7C+Data+Analyst;Technical+Writer+%F0%9F%93%9D" />
+```html
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Information+Systems+Graduate;Open+to+Work+%F0%9F%9A%80;IT+Support+%7C+Programmer;System+Analyst+%7C+Data+Analyst;Technical+Writer+%F0%9F%93%9D" />
+```
+
 
 <br>
 
